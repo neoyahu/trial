@@ -1,0 +1,15 @@
+{
+
+   "prefix": "PREFİX",
+   "sahip": "SAHİP ID",
+   "token": "TOKEN",
+
+   "kanal": "MESSAGE LOG KANAL ID",
+   "uyarıkanal": "UYARI LOG KANAL ID",
+   "bankanal": "BAN LOG KANAL ID",
+   "kickkanal": "KİCK LOG KANAL ID",
+
+   "botcukses": "BOT SES KANAL ID",
+   "tag": "TAG"
+
+}
